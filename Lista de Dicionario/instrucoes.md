@@ -1,4 +1,4 @@
-### Ex02-Lista de dicionários contendo comentários e emoções
+# Ex02-Lista de dicionários contendo comentários e emoções
 
 1) Crie uma lista de dicionários para armazenar comentários e emoções conforme a tabela abaixo:
 
